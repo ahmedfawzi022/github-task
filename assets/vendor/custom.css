@@ -1,0 +1,47 @@
+.fname{
+	margin: 0;
+    padding-top: 10px;
+}
+.nav-pills a{
+	    background-color: transparent;
+    color: gray;
+}
+
+.nav-pills a.active{
+	    background-color: transparent !important;
+    color: black !important;
+    border-bottom: 2px solid red;
+        border-radius: 0;
+}
+/* .navbar-expand-lg .navbar-collapse{
+	display: block !important;
+} */
+.actions{
+    text-align: right;
+}
+.logo{
+    background-color: white;
+}
+.list-group{
+    text-align: left;
+}
+.list-group-item{
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+.mt-25{
+    margin-top: 25px;
+}
+/* .result{
+    display: block;
+} */
+.search-input{
+    background-color: #24292e;
+    height: 26px;
+    border: none;
+    width: 100%;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
