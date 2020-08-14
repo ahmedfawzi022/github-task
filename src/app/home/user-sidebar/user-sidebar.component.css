@@ -1,0 +1,29 @@
+.fname{
+    font-size: 26px;
+    line-height: 1.25;
+    color: #24292e;
+}
+.lname{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    color: #666;
+}
+.user{
+    padding: 17px;
+}
+.img-profile{
+    border: none;
+    border-radius: 9px;
+}
+.list-icons{
+    margin-top: 13px;
+}
+.icon-links{
+    margin-right: 5px;
+}
+.blog{
+    color: #0366d6;
+    text-decoration: none; 
+}
